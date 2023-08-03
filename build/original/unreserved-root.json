@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "northwesternmutual",
+    "hash": "5ef062d3bdeab60cc0a913d87cc5cf60ea41b07f7b1d3c9075d9e44c4a958f9e",
+    "target": "northwesternmutual.",
+    "root": true
+  },
+  {
+    "name": "desi",
+    "hash": "632655b4990b873d93e704fcb0e13b035b9270d04f9f4f290ca0def9133c7f4a",
+    "target": "desi.",
+    "root": true
+  },
+  {
+    "name": "xn--mgbaakc7dvf",
+    "hash": "dbe8e8fa238b990116c4f79cdbaeedcbbaca6fea5be23495d720cb84ae8fc113",
+    "target": "xn--mgbaakc7dvf.",
+    "root": true
+  }
+]

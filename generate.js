@@ -26,6 +26,7 @@ const RTLD = require(path.join(NAMES_PATH, 'rtld.json'));
 const ALEXA = require(path.join(NAMES_PATH, 'alexa.json'));
 const WORDS = require(path.join(NAMES_PATH, 'words.json'));
 
+const gtldExcludes = new Set(EXTRAS.gtldExcludes);
 const exclude = new Set(EXTRAS.excludeNames);
 const blacklist = new Set(BLACKLIST);
 const words = new Set(WORDS);
@@ -129,8 +130,14 @@ function compile() {
   }
 
   // Root TLDs.
-  for (const name of RTLD)
+  for (const name of RTLD) {
+    if (gtldExcludes.has(name)) {
+      invalidate(name, name, 0, 'gtld-exclude');
+      continue;
+    }
+
     insert(name, 0, name, '');
+  }
 
   assert(ALEXA.length >= 300000);
 
@@ -380,11 +387,13 @@ if (!fs.existsSync(BUILD_PATH))
     // ["xn--4dbrk0ce", "xn--4dbrk0ce", 0, "not-reserved"],
     // ["xn--cckwcxetd", "xn--cckwcxetd", 0, "not-reserved"],
     // ["xn--jlq480n2rg", "xn--jlq480n2rg", 0, "not-reserved"],
-    assert(totalTLDS === RTLD.length - 5);
+    const NOT_RESERVED = 5;
+    const IGNORE = EXTRAS.gtldExcludes.length;
+    assert(totalTLDS === RTLD.length - NOT_RESERVED - IGNORE);
   }
 
   if (DATA_SRC === 'original') {
-    assert(totalTLDS === RTLD.length);
+    assert(totalTLDS === RTLD.length - EXTRAS.gtldExcludes.length);
   }
 
   assert(totalCustom === CUSTOM.length);

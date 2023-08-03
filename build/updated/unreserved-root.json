@@ -114,9 +114,21 @@
     "root": true
   },
   {
+    "name": "northwesternmutual",
+    "hash": "5ef062d3bdeab60cc0a913d87cc5cf60ea41b07f7b1d3c9075d9e44c4a958f9e",
+    "target": "northwesternmutual.",
+    "root": true
+  },
+  {
     "name": "duck",
     "hash": "5fc15eee822f744e525bb60485a458b660f4915b2e76d019a4ad70ae92457027",
     "target": "duck.",
+    "root": true
+  },
+  {
+    "name": "desi",
+    "hash": "632655b4990b873d93e704fcb0e13b035b9270d04f9f4f290ca0def9133c7f4a",
+    "target": "desi.",
     "root": true
   },
   {
@@ -249,6 +261,12 @@
     "name": "iveco",
     "hash": "d8a536988e7c5d1985e355905e88f7a17c08a54c3d8e387fc9269551f809689a",
     "target": "iveco.",
+    "root": true
+  },
+  {
+    "name": "xn--mgbaakc7dvf",
+    "hash": "dbe8e8fa238b990116c4f79cdbaeedcbbaca6fea5be23495d720cb84ae8fc113",
+    "target": "xn--mgbaakc7dvf.",
     "root": true
   },
   {

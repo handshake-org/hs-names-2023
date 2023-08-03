@@ -422,7 +422,6 @@
   "democrat": ["", 0, 0],
   "dental": ["", 0, 0],
   "dentist": ["", 0, 0],
-  "desi": ["", 0, 0],
   "design": ["", 0, 0],
   "dev": ["", 0, 2],
   "dhl": ["", 0, 2],
@@ -479,7 +478,6 @@
   "esq": ["", 0, 0],
   "estate": ["", 0, 0],
   "et": ["", 0, 0],
-  "etisalat": ["", 0, 1],
   "eu": ["", 0, 0],
   "eurovision": ["", 0, 0],
   "eus": ["", 0, 0],
@@ -938,7 +936,6 @@
   "nl": ["", 0, 0],
   "no": ["", 0, 0],
   "nokia": ["", 0, 0],
-  "northwesternmutual": ["", 0, 0],
   "norton": ["", 0, 1],
   "now": ["", 0, 0],
   "nowruz": ["", 0, 0],
@@ -1470,7 +1467,6 @@
   "xn--mgba3a3ejt": ["", 0, 0],
   "xn--mgba3a4f16a": ["", 0, 0],
   "xn--mgba7c0bbn0a": ["", 0, 0],
-  "xn--mgbaakc7dvf": ["", 0, 0],
   "xn--mgbaam7a8h": ["", 0, 0],
   "xn--mgbab2bd": ["", 0, 0],
   "xn--mgbah1a3hjkrd": ["", 0, 0],
@@ -6392,6 +6388,7 @@
   "online-stopwatch": ["com", 8341, 0],
   "bankleumi": ["co.il", 8342, 0],
   "sulekha": ["com", 8345, 0],
+  "etisalat": ["ae", 8347, 0],
   "infinityfree": ["net", 8349, 0],
   "facebookblueprint": ["com", 8350, 0],
   "walmartmexico": ["com.mx", 8352, 0],
@@ -11555,6 +11552,5 @@
   "babelio": ["com", 19137, 0],
   "stackabuse": ["com", 19138, 0],
   "bancobpm": ["it", 19140, 0],
-  "cccs": ["edu", 19141, 0],
-  "fema": ["gov", 19142, 0]
+  "cccs": ["edu", 19141, 0]
 }

@@ -1,4 +1,8 @@
 [
+  ["desi", "desi", 0, "gtld-exclude"],
+  ["etisalat", "etisalat", 0, "gtld-exclude"],
+  ["northwesternmutual", "northwesternmutual", 0, "gtld-exclude"],
+  ["xn--mgbaakc7dvf", "xn--mgbaakc7dvf", 0, "gtld-exclude"],
   ["youtube.com", "youtube", 1, "collision", ["youtube", 0]],
   ["google.com", "google", 2, "collision", ["google", 0]],
   ["baidu.com", "baidu", 4, "collision", ["baidu", 0]],
@@ -1713,7 +1717,6 @@
   ["rtl.lu", "rtl", 11232, "collision", ["rtl.fr", 5190]],
   ["miss-tramell.livejournal.com", "miss-tramell", 11235, "deeply-nested"],
   ["tz.de", "tz", 11244, "two-letter"],
-  ["etisalat.ae", "etisalat", 11272, "collision", ["etisalat", 0]],
   ["yesbank.in", "yesbank", 11275, "collision", ["yesbank.co.in", 11209]],
   ["autodesk.com.cn", "autodesk", 11278, "collision", ["autodesk.com", 858]],
   ["sinoptik.bg", "sinoptik", 11289, "collision", ["sinoptik.ua", 710]],
@@ -1785,7 +1788,5 @@
   ["vc.ru", "vc", 11734, "two-letter"],
   ["edreams.es", "edreams", 11761, "collision", ["edreams.com", 10708]],
   ["porngames.com", "porngames", 11765, "collision", ["porngames.adult", 772]],
-  ["hdonline.eu", "hdonline", 11781, "collision", ["hdonline.vn", 7524]],
-  ["sport24.co.za", "sport24", 11787, "collision", ["sport24.gr", 3082]],
-  ["very.co.uk", "very", 11788, "english-word"]
+  ["hdonline.eu", "hdonline", 11781, "collision", ["hdonline.vn", 7524]]
 ]
