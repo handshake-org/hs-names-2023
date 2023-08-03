@@ -1,0 +1,30 @@
+{
+  "name": "hs-names-2023",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Locked up 10k handshake names",
+  "keywords": [
+    "handshake",
+    "names",
+    "icann-lockup",
+    "soft-fork"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/handshake-org/hs-names-2023.git",
+  "homepage": "https://github.com/handshake-org/hs-names-2023",
+  "bugs": {
+    "url": "https://github.com/handshake-org/hs-names-2023/issues"
+  },
+  "author": "Nodari Chkuaselidze <nodar.chkuaselidze@gmail.com>",
+  "scripts": {},
+  "dependencies": {
+    "bcfg": "^0.2.1",
+    "bfile": "^0.2.3",
+    "bns": "^0.15.0",
+    "bufio": "^1.2.0",
+    "hsd": "^5.1.0"
+  },
+  "engines": {
+    "node": ">= 14.0.0"
+  }
+}
