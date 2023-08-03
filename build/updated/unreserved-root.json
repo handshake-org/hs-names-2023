@@ -1,0 +1,278 @@
+[
+  {
+    "name": "cancerresearch",
+    "hash": "06a44521380f328b9071055ad25087ec74f30b491835d0b74125432cbefe281b",
+    "target": "cancerresearch.",
+    "root": true
+  },
+  {
+    "name": "nadex",
+    "hash": "08ba6a443bfc6aadb8fdd6eff8127bb50b53a7361fbab903919c9577447a43fc",
+    "target": "nadex.",
+    "root": true
+  },
+  {
+    "name": "swiftcover",
+    "hash": "0cd23ff6aed2d3c9f0709749457a46ab407291073208e759d0a245f5d594ab67",
+    "target": "swiftcover.",
+    "root": true
+  },
+  {
+    "name": "scor",
+    "hash": "1258dc34b4d64bef9f43a9e5611380f684c295863f76280235da6f31d2880768",
+    "target": "scor.",
+    "root": true
+  },
+  {
+    "name": "scjohnson",
+    "hash": "172b1471be399a2620cd4d243b3406d5f2b841ff92e9ea73ba75377f5105e251",
+    "target": "scjohnson.",
+    "root": true
+  },
+  {
+    "name": "raid",
+    "hash": "188bcb36da8f8eb00ca05483105e1fdc9f9e6fd25888202b0c6b1db8a2b8752a",
+    "target": "raid.",
+    "root": true
+  },
+  {
+    "name": "shriram",
+    "hash": "199b1f84bc686ea1986cf0c9e16c3d2c52943594ea559916dff72e27547ce9bf",
+    "target": "shriram.",
+    "root": true
+  },
+  {
+    "name": "lancia",
+    "hash": "22195d56e4521441cd37935a06de27762b5bc96b99b2939e20c62a094ff3c946",
+    "target": "lancia.",
+    "root": true
+  },
+  {
+    "name": "xn--estv75g",
+    "hash": "22b6a06f0b07bb5f1ebb7e4e74b17bc3f3f31e319e7db22c521040de5d14aafb",
+    "target": "xn--estv75g.",
+    "root": true
+  },
+  {
+    "name": "afamilycompany",
+    "hash": "31ebebceb9fe343b3226e1ba8909982c5fd4c6e976add89c2c3555709e3b2004",
+    "target": "afamilycompany.",
+    "root": true
+  },
+  {
+    "name": "fujixerox",
+    "hash": "37e3f563a1e87883da591f7f03a41a1a4cf042c0c6e77f731318c6ab30f64ddb",
+    "target": "fujixerox.",
+    "root": true
+  },
+  {
+    "name": "ceb",
+    "hash": "4016c35826e954145d4b415c733054372742433ac18286b977cea44576365b04",
+    "target": "ceb.",
+    "root": true
+  },
+  {
+    "name": "maserati",
+    "hash": "42c394aae6407427f407b0ed173e6cb5a63367b022ff097fd78511ace6ccd8c4",
+    "target": "maserati.",
+    "root": true
+  },
+  {
+    "name": "fiat",
+    "hash": "47521d471ed53a02d18e49a837f4f0b730f3db3faa2ac1ca073c5ec515e57a3f",
+    "target": "fiat.",
+    "root": true
+  },
+  {
+    "name": "bugatti",
+    "hash": "49191759ac232e20ce547c17434853bbfb61c9ac6b8d976c05ca8498545319dd",
+    "target": "bugatti.",
+    "root": true
+  },
+  {
+    "name": "spreadbetting",
+    "hash": "493c58160794af6695e1029bfeb34cd96dd11ca75fa5826439b1b6048013079e",
+    "target": "spreadbetting.",
+    "root": true
+  },
+  {
+    "name": "budapest",
+    "hash": "55c9920e6868275e9f90e60465aa6509dc5c18c1bc001dd4db097eafc68c81d9",
+    "target": "budapest.",
+    "root": true
+  },
+  {
+    "name": "loft",
+    "hash": "58b300aa2c308be1eacca62b5fb65d183ed13d7444d40c842b46294b48a355dc",
+    "target": "loft.",
+    "root": true
+  },
+  {
+    "name": "caseih",
+    "hash": "5bd73929eec17a6bc2eec6c5b94e7c1eb0da56b0e6d3c51d7a7d9766c24b8560",
+    "target": "caseih.",
+    "root": true
+  },
+  {
+    "name": "duck",
+    "hash": "5fc15eee822f744e525bb60485a458b660f4915b2e76d019a4ad70ae92457027",
+    "target": "duck.",
+    "root": true
+  },
+  {
+    "name": "lupin",
+    "hash": "669c6c36dcc3866b34f013113f1250fadb34be1318303c2be9fdccdb94da13bf",
+    "target": "lupin.",
+    "root": true
+  },
+  {
+    "name": "jcp",
+    "hash": "6df57d49c18a4a82a4030615cb3dd2096c51e09ed21b12370da7855bb88b4fed",
+    "target": "jcp.",
+    "root": true
+  },
+  {
+    "name": "mutual",
+    "hash": "7e3eb60279f7fe88f5bc8e8ac9e1c2e80740c9b09b810496c594b55c87e5459c",
+    "target": "mutual.",
+    "root": true
+  },
+  {
+    "name": "alfaromeo",
+    "hash": "7fd34f89d1b2da765b550b666ed94a4ac881e5cef831a6b6425dd3b0908583f4",
+    "target": "alfaromeo.",
+    "root": true
+  },
+  {
+    "name": "vuelos",
+    "hash": "887010b2a33bdf4a8d7dd5afa338911e23710b0985edf10d7e2a945d02960081",
+    "target": "vuelos.",
+    "root": true
+  },
+  {
+    "name": "aigo",
+    "hash": "8ad7ee6f02c3d8abe2decbd63dfcb68d6156911e16913f45c5dd55938eac4865",
+    "target": "aigo.",
+    "root": true
+  },
+  {
+    "name": "cookingchannel",
+    "hash": "906ea092fede4253f49a2997b2166b035a290b7813020de09ecaa9cd7ff7d14e",
+    "target": "cookingchannel.",
+    "root": true
+  },
+  {
+    "name": "symantec",
+    "hash": "97b24d8b47383005faff05f361480df9fd5e432d5ed4f5258b7e869268889937",
+    "target": "symantec.",
+    "root": true
+  },
+  {
+    "name": "xn--kpu716f",
+    "hash": "9c6ea2484bbc9bfd756807d7466bd7bad8ab0ff42e5472cc2c1498832311adfe",
+    "target": "xn--kpu716f.",
+    "root": true
+  },
+  {
+    "name": "esurance",
+    "hash": "9cfd0a18af4c2d8015d7cac3fb4f6019c135976c4320f8708eb0a391d913dae4",
+    "target": "esurance.",
+    "root": true
+  },
+  {
+    "name": "hoteles",
+    "hash": "9f9065fcf74defae25d1fbeee5f0c5d2e2459c3301d6c2bac5872fe8d3f80094",
+    "target": "hoteles.",
+    "root": true
+  },
+  {
+    "name": "linde",
+    "hash": "a156e94509ac1b5813f5efde99cc8452bf38175dc828416c446f5ec8aff0ce95",
+    "target": "linde.",
+    "root": true
+  },
+  {
+    "name": "passagens",
+    "hash": "ad857589b83d35e60b60af86ad1a26d2a28b88d4d5d14da0fa6c82aab920a955",
+    "target": "passagens.",
+    "root": true
+  },
+  {
+    "name": "xn--3oq18vl8pn36a",
+    "hash": "b510cc6bfa8df045ff3b61e4e34ee4fa2c6086b42584ffcee7ea2d15a3f217f2",
+    "target": "xn--3oq18vl8pn36a.",
+    "root": true
+  },
+  {
+    "name": "xn--pbt977c",
+    "hash": "b76d8a818219e71e382f5097f30578bedc4aa5acc08ddff4d995b498c2ff17e9",
+    "target": "xn--pbt977c.",
+    "root": true
+  },
+  {
+    "name": "abarth",
+    "hash": "b81d16375a37fa88f29e69862cd5dbfcee3cd8e3ad031d39cdc600093cdb61f2",
+    "target": "abarth.",
+    "root": true
+  },
+  {
+    "name": "rightathome",
+    "hash": "b9afde89add9299d49cf37d8a4a3ed05a2ed8dedabec4593fd36248b3e6089a7",
+    "target": "rightathome.",
+    "root": true
+  },
+  {
+    "name": "off",
+    "hash": "bdc80ce481ca7b82f48e3e423eedeaf9e6e8871d19106d33ead93125d639f502",
+    "target": "off.",
+    "root": true
+  },
+  {
+    "name": "onyourside",
+    "hash": "be10c1d046c9db93e7976d014e5758c41cbd8058daeae47c2376e920c0002ed3",
+    "target": "onyourside.",
+    "root": true
+  },
+  {
+    "name": "ses",
+    "hash": "c40a310028f354052cdb9816af754cc4d0c302e0137d6e45370808277fe4b1e9",
+    "target": "ses.",
+    "root": true
+  },
+  {
+    "name": "xn--jlq61u9w7b",
+    "hash": "d61857254d22562d07290914da72d1cafaa0b06fd388121c286b58e7a5f2fc12",
+    "target": "xn--jlq61u9w7b.",
+    "root": true
+  },
+  {
+    "name": "iveco",
+    "hash": "d8a536988e7c5d1985e355905e88f7a17c08a54c3d8e387fc9269551f809689a",
+    "target": "iveco.",
+    "root": true
+  },
+  {
+    "name": "nationwide",
+    "hash": "df127e26d96d7e829986ce64697cb19466b10c4c69fed770a0f895b6bf1bfef0",
+    "target": "nationwide.",
+    "root": true
+  },
+  {
+    "name": "glade",
+    "hash": "e54fbfdd8e413b2b0e1b46aa9748ec70b096fa37f982c459d85b1b2413c1e1e5",
+    "target": "glade.",
+    "root": true
+  },
+  {
+    "name": "newholland",
+    "hash": "edc0d8241b1fecbc288657757b9502c370d7bdf5db342fb64bfa027a7d56c04d",
+    "target": "newholland.",
+    "root": true
+  },
+  {
+    "name": "lixil",
+    "hash": "fa3faddbf70d6def029b1257c3646c6091ebb03e58e873e565b800896edd695b",
+    "target": "lixil.",
+    "root": true
+  }
+]

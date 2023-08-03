@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -ex
+
+./download
+
+./update.js
+./generate.js
+./unreserved.js
+
+./update.js --data-source=original
+./generate.js --data-source=original
+./unreserved.js --data-source=original
